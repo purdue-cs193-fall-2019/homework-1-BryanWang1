@@ -1,3 +1,10 @@
+# Bryan Wang's First CS193 Homework #
+Favorite things about CS193
+
+- Learning how to use Git
+- Learning about CS through older classmates
+- Laid-back learning environment.
+
 # Welcome to my website!
 
 ### About Me
